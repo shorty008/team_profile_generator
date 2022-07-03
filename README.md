@@ -10,7 +10,7 @@
   * [Questions](#questions)
 
   ## Installation
-  Install it somewhere that is meaningful to you
+  Install it to your local drive to run the application
 
   ## Usage
   Use it to generate a profile page for your team!
